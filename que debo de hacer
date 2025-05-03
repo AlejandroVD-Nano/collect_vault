@@ -2,6 +2,8 @@ que debo de hacer primero,
 instalar el nodejs y el mongose, estos son los links
 node js:
 https://nodejs.org/en/download,
+despues ejectuar el comando el terminal:
+npm install
 despues el mongo:
 https://www.mongodb.com/try/download/
 ademas vas a descargar el mongocompass que es el gui y poder ver las cosas que tienes
