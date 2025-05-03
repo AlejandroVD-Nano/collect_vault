@@ -1,0 +1,11 @@
+que debo de hacer primero,
+instalar el nodejs y el mongose, estos son los links
+node js:
+https://nodejs.org/en/download,
+despues el mongo:
+https://www.mongodb.com/try/download/
+ademas vas a descargar el mongocompass que es el gui y poder ver las cosas que tienes
+despues cuando tengas todo instalado vas a ir a mongo compass y crear una base de datos llamada mtg_collection y con una collecion llamada cards
+despues de eso vas a ir al archivo server.js que se encuentra en mtg-backend y con ello vas a ver si esta bien la cadena de conexion con tu bd.
+
+despues de haber seguido estos debes de darle click al archivo dbapp para que se ejectue y habra el navegador donde sera visual la base de datos.
